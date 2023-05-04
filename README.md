@@ -1,6 +1,6 @@
 # eCommerce-Online-Store-Sequelize
 
-## DescriptionProblem:
+## Description
 
 ### Problem:
 Creating a secure and efficient backend for an online store where customers can shop for products requires implementing security measures to prevent 
@@ -12,6 +12,16 @@ in four tables: category, product, tag, and product-tag. HTTP requests were used
 routes respectively. In the near future, advanced search capabilities and real-time updates will be added to the backend to enhance the shopping experience 
 for customers. Additionally, security measures such as bcrypt and a JWT library will be implemented to ensure the security of the backend. With these 
 solutions in place, customers can shop with confidence and enjoy a seamless experience on the online store.
+
+## Installation 
+
+npm init -y
+npm install express sequelize mysql2 dotenv
+mysql -u root -p
+source db/schema.sql
+quit
+npm run seed 
+npm start
 
 ## Screenshot
 
