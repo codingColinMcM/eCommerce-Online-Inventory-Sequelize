@@ -3,15 +3,22 @@
 ## Description
 
 ### Problem:
-Creating a secure and efficient backend for an online store where customers can shop for products requires implementing security measures to prevent 
-potential attacks like SQL injection, as well as providing advanced search capabilities and real-time updates to enhance the shopping experience.
+eCommerce sites need a reliable and efficient way to manage their back end. This includes setting up an Express.js API and connecting it to a MySQL database using Sequelize, a powerful ORM tool.
 
 ### Solution:
-To address these challenges, this repository contains the backend developed using Node.js and Express.js, with Sequelize used to store and manipulate data 
-in four tables: category, product, tag, and product-tag. HTTP requests were used to display, add, update, and delete data with GET, POST, PUT, and DELETE 
-routes respectively. In the near future, advanced search capabilities and real-time updates will be added to the backend to enhance the shopping experience 
-for customers. Additionally, security measures such as bcrypt and a JWT library will be implemented to ensure the security of the backend. With these 
-solutions in place, customers can shop with confidence and enjoy a seamless experience on the online store.
+To solve this problem, I have built the back end for an e-commerce site by configuring a working Express.js API to use Sequelize to interact with a MySQL database. This involved:
+
+Adding the necessary environment variables to the project and setting up the Sequelize configuration file.
+
+Defining Sequelize models for the different data entities in the e-commerce site, such as products, categories, and tags.
+
+Creating and running database migrations to update the MySQL database schema.
+
+Seeding the development database with test data.
+
+Testing the API routes using Insomnia Core to ensure that they function correctly.
+
+By following these steps, I was able to create a reliable and efficient back end for the e-commerce site, with the ability to manage data using Sequelize and MySQL. This solution provides developers with a clear and straightforward way to set up an Express.js API using Sequelize and interact with a MySQL database.
 
 ## Installation 
 
