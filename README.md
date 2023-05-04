@@ -8,15 +8,15 @@ eCommerce sites need a reliable and efficient way to manage their back end. This
 ### Solution:
 To solve this problem, I have built the back end for an e-commerce site by configuring a working Express.js API to use Sequelize to interact with a MySQL database. This involved:
 
-Adding the necessary environment variables to the project and setting up the Sequelize configuration file.
+1. Adding the necessary environment variables to the project and setting up the Sequelize configuration file.
 
-Defining Sequelize models for the different data entities in the e-commerce site, such as products, categories, and tags.
+2. Defining Sequelize models for the different data entities in the e-commerce site, such as products, categories, and tags.
 
-Creating and running database migrations to update the MySQL database schema.
+3. Creating and running database migrations to update the MySQL database schema.
 
-Seeding the development database with test data.
+4. Seeding the development database with test data.
 
-Testing the API routes using Insomnia Core to ensure that they function correctly.
+5. Testing the API routes using Insomnia Core to ensure that they function correctly.
 
 By following these steps, I was able to create a reliable and efficient back end for the e-commerce site, with the ability to manage data using Sequelize and MySQL. This solution provides developers with a clear and straightforward way to set up an Express.js API using Sequelize and interact with a MySQL database.
 
