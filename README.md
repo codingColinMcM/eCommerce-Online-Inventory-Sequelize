@@ -1,8 +1,17 @@
-# eCommerce
+# eCommerce-Online-Store-Sequelize
 
-## Description
+## DescriptionProblem:
 
-A backend for a website where customers can shop for products in an online store. Sequelize is used to store and manipulate the data of the website. Data from the website was stored in 4 tables: category, product, tag, and product-tag. Http requests are used to display, add, update, and delete data with get, post, put, and delete routes respectively. These routes were tested with Insomnia in the demo video below.
+### Problem:
+Creating a secure and efficient backend for an online store where customers can shop for products requires implementing security measures to prevent 
+potential attacks like SQL injection, as well as providing advanced search capabilities and real-time updates to enhance the shopping experience.
+
+### Solution:
+To address these challenges, this repository contains the backend developed using Node.js and Express.js, with Sequelize used to store and manipulate data 
+in four tables: category, product, tag, and product-tag. HTTP requests were used to display, add, update, and delete data with GET, POST, PUT, and DELETE 
+routes respectively. In the near future, advanced search capabilities and real-time updates will be added to the backend to enhance the shopping experience 
+for customers. Additionally, security measures such as bcrypt and a JWT library will be implemented to ensure the security of the backend. With these 
+solutions in place, customers can shop with confidence and enjoy a seamless experience on the online store.
 
 ## Screenshot
 
