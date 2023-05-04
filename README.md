@@ -15,6 +15,7 @@ solutions in place, customers can shop with confidence and enjoy a seamless expe
 
 ## Installation 
 
+```
 npm init -y
 npm install express sequelize mysql2 dotenv
 mysql -u root -p
@@ -22,6 +23,7 @@ source db/schema.sql
 quit
 npm run seed 
 npm start
+```
 
 ## Screenshot
 
