@@ -58,9 +58,8 @@ database, making it more modular and easier to maintain.
 
 In addition to the API routes, the application also has controllers that handle the data returned by the Sequelize models and send it to the client-side.
 
-Overall, this e-commerce application provides developers with a clear and straightforward way to set up an Express.js API using Sequelize and interact 
-with 
-a MySQL database.
+Overall, this e-commerce application provides online store owners with a clear and straightforward way to set up an Express.js API using Sequelize and
+interact with a MySQL database.
 
 ## Installation 
 
