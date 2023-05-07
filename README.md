@@ -124,5 +124,5 @@ THE SOFTWARE.
 
 If you have any questions, please reach out to me using one of the following:
 
-- [Email](mcmurtraycolin@gmail.com)
+- [Email](mailto:mcmurtraycolin@gmail.com)
 - [GitHub Profile](https://github.com/codingColinMcM)
