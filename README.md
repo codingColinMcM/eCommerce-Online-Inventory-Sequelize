@@ -28,8 +28,8 @@ database.
 - [Overview](#overview)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Credits](#credits)
 - [License](#license)
+- [Questions?](#questions?)
 
 ## Overview 
 
@@ -51,13 +51,15 @@ The application is organized into several folders:
 The application has four models: Category, Product, Tag, and ProductTag. The Product model belongs to many Tag models, and the Tag model belongs to many 
 Product models. Using the ProductTag model allows products to have multiple tags, and tags to have many products.
 
-The application uses a dotenv file to store environment variables required for connecting to the MySQL database using Sequelize, such as the database name, 
+The application uses a dotenv file to store environment variables required for connecting to the MySQL database using Sequelize, such as the database 
+name, 
 username, and password. By storing these variables in a dotenv file, the application code can remain agnostic to the specific configuration details of the 
 database, making it more modular and easier to maintain.
 
 In addition to the API routes, the application also has controllers that handle the data returned by the Sequelize models and send it to the client-side.
 
-Overall, this e-commerce application provides developers with a clear and straightforward way to set up an Express.js API using Sequelize and interact with 
+Overall, this e-commerce application provides developers with a clear and straightforward way to set up an Express.js API using Sequelize and interact 
+with 
 a MySQL database.
 
 ## Installation 
@@ -70,12 +72,23 @@ npm install
 
 ## Usage
 
-To execute the 
+To set up the data base to be populated with the seed data, execute the following commands:
+
 ```
 mysql -u root -p
 source db/schema.sql
 quit
+```
+
+To seed the database with data, run the following command:
+
+```
 npm run seed 
+```
+
+Finally, you can run the application using the command: 
+
+```
 npm start
 ```
 
@@ -108,3 +121,9 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OU
 THE SOFTWARE.
 </pre>
 
+## Questions?
+
+If you have any questions, please reach out to me using one of the following:
+
+- [Email](mcmurtraycolin@gmail.com)
+- [GitHub Profile]((https://github.com/codingColinMcM))
