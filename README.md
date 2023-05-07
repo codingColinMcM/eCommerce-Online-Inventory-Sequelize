@@ -3,10 +3,12 @@
 ## Description
 
 ### Problem:
-eCommerce sites need a reliable and efficient way to manage their back end. This includes setting up an Express.js API and connecting it to a MySQL database using Sequelize, a powerful ORM tool.
+eCommerce sites need a reliable and efficient way to manage their back end. This includes setting up an Express.js API and connecting it to a MySQL 
+database using Sequelize, a powerful ORM tool.
 
 ### Solution:
-To solve this problem, I have built the back end for an e-commerce site by configuring a working Express.js API to use Sequelize to interact with a MySQL database. This involved:
+To solve this problem, I have built the back end for an e-commerce site by configuring a working Express.js API to use Sequelize to interact with a MySQL 
+database. This involved:
 
 1. Adding the necessary environment variables to the project and setting up the Sequelize configuration file.
 
@@ -36,15 +38,15 @@ application provides a reliable and efficient way to manage the back-end of an e
 
 The application is organized into several folders:
 
-The config folder contains the connection.js file, which sets up the Sequelize configuration for the MySQL database.
+* The config folder contains the connection.js file, which sets up the Sequelize configuration for the MySQL database.
 
-The db folder contains the schema.sql file, which creates the initial MySQL database schema.
+* The db folder contains the schema.sql file, which creates the initial MySQL database schema.
 
-The models folder contains the Sequelize models for the different data entities in the e-commerce site, such as products, categories, and tags.
+* The models folder contains the Sequelize models for the different data entities in the e-commerce site, such as products, categories, and tags.
 
-The routes folder contains the API routes for the application, which allow developers to interact with the data entities in the MySQL database.
+* The routes folder contains the API routes for the application, which allow developers to interact with the data entities in the MySQL database.
 
-The seeds folder contains data that is used to seed the development database with test data.
+* The seeds folder contains data that is used to seed the development database with test data.
 
 The application has four models: Category, Product, Tag, and ProductTag. The Product model belongs to many Tag models, and the Tag model belongs to many 
 Product models. Using the ProductTag model allows products to have multiple tags, and tags to have many products.
@@ -55,13 +57,21 @@ database, making it more modular and easier to maintain.
 
 In addition to the API routes, the application also has controllers that handle the data returned by the Sequelize models and send it to the client-side.
 
-Overall, this e-commerce application provides developers with a clear and straightforward way to set up an Express.js API using Sequelize and interact with a MySQL database.
+Overall, this e-commerce application provides developers with a clear and straightforward way to set up an Express.js API using Sequelize and interact with 
+a MySQL database.
 
 ## Installation 
 
+To run this project, instialize it locally using npm:
+
 ```
-npm init -y
-npm install express sequelize mysql2 dotenv
+npm install
+```
+
+## Usage
+
+To execute the 
+```
 mysql -u root -p
 source db/schema.sql
 quit
@@ -77,3 +87,24 @@ npm start
 ## Demo Video
 
 https://drive.google.com/file/d/1XdVn1MfiiEsmpfYC9HA0WPymaHQdRvsc/view?usp=share_link 
+
+## License
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+<pre>
+The MIT License
+
+© Colin McMurtray University at North Carolina Chapel Hill Coding Bootcamp MIT License Copyright (c) 2023 Permission is hereby granted, free of charge, to 
+any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including 
+without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to 
+whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, 
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER 
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN 
+THE SOFTWARE.
+</pre>
+
