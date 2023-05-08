@@ -35,7 +35,7 @@ database.
 
 ## Overview 
 
-The application is organized into several folders:
+The application is organized into several files and folders:
 
 * The config folder contains the connection.js file, which sets up the Sequelize 
 configuration for the MySQL database.
