@@ -35,10 +35,6 @@ database.
 
 ## Overview 
 
-This e-commerce application is built using Node.js and Express.js and uses Sequelize, a 
-powerful ORM tool, to interact with a MySQL database. The application provides a reliable 
-and efficient way to manage the back-end of an e-commerce site.
-
 The application is organized into several folders:
 
 * The config folder contains the connection.js file, which sets up the Sequelize 
@@ -63,8 +59,7 @@ to have many products.
 
 The application uses a dotenv file to store environment variables required for connecting 
 to the MySQL database using Sequelize, such as the database 
-name, 
-username, and password. By storing these variables in a dotenv file, the application code 
+name, username, and password. By storing these variables in a dotenv file, the application code 
 can remain agnostic to the specific configuration details of the 
 database, making it more modular and easier to maintain.
 
