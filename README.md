@@ -28,6 +28,8 @@ database.
 - [Overview](#overview)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Screenshot](#screenshot)
+- [Demo Video](#demo)
 - [License](#license)
 - [Questions?](#questions?)
 
