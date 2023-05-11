@@ -52,6 +52,10 @@ interact with the data entities in the MySQL database.
 * The seeds folder contains data that is used to seed the development database with test 
 data.
 
+* LICENSE: This file contains the license agreement for the weather dashboard application. It is licensed under the MIT License.
+
+* README.md: This is the README file for the weather dashboard application, which provides information about the application, including how to install and use it.
+
 The application has four models: Category, Product, Tag, and ProductTag. The Product model 
 belongs to many Tag models, and the Tag model belongs to many 
 Product models. Using the ProductTag model allows products to have multiple tags, and tags 
