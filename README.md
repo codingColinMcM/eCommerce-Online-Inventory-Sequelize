@@ -76,7 +76,7 @@ interact with a MySQL database.
 
 ## Installation 
 
-To run this project, instialize it locally using npm:
+To run this project, install the necessary npm packages by using:
 
 ```
 npm install
