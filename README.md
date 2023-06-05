@@ -1,6 +1,6 @@
 # eCommerce-Online-Inventory-Sequelize
 
-I will apply 100
+I will apply 100 times
 
 ## Description
 
