@@ -1,7 +1,5 @@
 # eCommerce-Online-Inventory-Sequelize
 
-I will apply 100 times today
-
 ## Description
 
 ### Problem:
