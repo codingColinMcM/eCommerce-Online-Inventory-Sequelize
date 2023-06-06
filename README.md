@@ -1,6 +1,6 @@
 # eCommerce-Online-Inventory-Sequelize
 
-Please make this look
+Please make this look as
 
 ## Description
 
