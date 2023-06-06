@@ -1,6 +1,6 @@
 # eCommerce-Online-Inventory-Sequelize
 
-Please make this look as green as 
+Please make this look as green as possible
 
 ## Description
 
