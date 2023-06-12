@@ -1,6 +1,6 @@
 # eCommerce-Online-Inventory-Sequelize
 
-I really hope my interview goes
+I really hope my interview goes well
 
 ## Description
 
