@@ -1,6 +1,6 @@
 # eCommerce-Online-Inventory-Sequelize
 
-I really
+I really hope
 
 ## Description
 
