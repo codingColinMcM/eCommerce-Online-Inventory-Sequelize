@@ -1,6 +1,6 @@
 # eCommerce-Online-Inventory-Sequelize
 
-I just completed a HackerRank exercise and I really dislike the fact that 
+I just completed a HackerRank exercise and I really dislike the fact that the 
 
 ## Description
 
