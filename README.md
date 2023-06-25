@@ -1,6 +1,6 @@
 # eCommerce-Online-Inventory-Sequelize
 
-I just completed a HackerRank
+I just completed a HackerRank exercise 
 
 ## Description
 
