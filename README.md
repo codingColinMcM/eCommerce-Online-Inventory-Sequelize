@@ -1,6 +1,6 @@
 # eCommerce-Online-Inventory-Sequelize
 
-I am quite upset that I did not make contributions yesterday. Yesterday was a tough day
+I am quite upset that I did not make contributions yesterday. Yesterday was a tough day so I shouldn't beat myself up. Others have done a good job of that already.
 
 ## Description
 
