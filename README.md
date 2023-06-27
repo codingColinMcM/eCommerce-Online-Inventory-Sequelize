@@ -1,6 +1,6 @@
 # eCommerce-Online-Inventory-Sequelize
 
-I am quite upset
+I am quite upset that 
 
 ## Description
 
