@@ -1,6 +1,6 @@
 # eCommerce-Online-Inventory-Sequelize
 
-I am upset at Brendan. I will
+I am upset at Brendan. I will not 
 
 ## Description
 
