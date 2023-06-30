@@ -1,6 +1,6 @@
 # eCommerce-Online-Inventory-Sequelize
 
-I am upset at Brendan. I will not call him again unless I 
+I am upset at Brendan. I will not call him again unless I have 
 
 ## Description
 
