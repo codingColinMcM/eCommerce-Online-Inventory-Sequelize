@@ -1,6 +1,6 @@
 # eCommerce-Online-Inventory-Sequelize
 
-Please contribute to 
+Please contribute to Friday!
 
 ## Description
 
