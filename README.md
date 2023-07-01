@@ -1,6 +1,6 @@
 # eCommerce-Online-Inventory-Sequelize
 
-Please contribute to Friday! Oh my fucking GOD I swear I 
+Please contribute to Friday! Oh my fucking GOD I swear I thought
 
 ## Description
 
