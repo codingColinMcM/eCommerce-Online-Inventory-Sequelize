@@ -1,6 +1,6 @@
 # eCommerce-Online-Inventory-Sequelize
 
-Look, I will finish the technical 
+Look, I will finish the technical assesment
 
 ## Description
 
