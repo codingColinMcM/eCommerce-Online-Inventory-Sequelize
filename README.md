@@ -1,6 +1,6 @@
 # eCommerce-Online-Inventory-Sequelize
 
-Look, I will finish the technical assessment in the morning. If it works
+Look, I will finish the technical assessment in the morning. If it works out
 
 ## Description
 
