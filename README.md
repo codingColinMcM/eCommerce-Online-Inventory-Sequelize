@@ -1,7 +1,5 @@
 # eCommerce-Online-Inventory-Sequelize
 
-Look, I will finish the technical assessment in the morning. If it works out and I get a call 
-
 ## Description
 
 ### Problem:
