@@ -1,4 +1,4 @@
-# eCommerce-Online-Inventory-Sequelize
+# eCommerce-Online-Inventory-Sequelizeg
 pledagggggg
 ## Description
 
