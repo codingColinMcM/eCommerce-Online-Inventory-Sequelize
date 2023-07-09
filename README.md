@@ -1,10 +1,10 @@
-# eCommerce-Online-Inventory-Sequelizeg
+# eCommerce-Online-Inventory-Sequelizegg
 pledaggggggg
 ## Descriptiong
 
 ### Problem:
 eCommerce sites need a reliable and efficient way to manage their back end. This includes 
-setting up an Express.js API and connecting it to a MySQL database using Sequelize, a powerful ORM tool.
+setting up an Express.js API and connecting it to a MySQL database using Sequelgize, a powerful ORM tool.
 
 ### Solution:
 To solve this problem, I have built the back end for an e-commerce site by configuring a working Express.js API to use Sequelize to interact with a MySQL 
