@@ -1,5 +1,5 @@
 # eCommerce-Online-Inventory-Sequelize
-pledag
+pledagg
 ## Description
 
 ### Problem:
