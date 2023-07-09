@@ -1,4 +1,4 @@
-g# eCommerce-Online-Inventory-Sequelizegg
+gg# eCommerce-Online-Inventory-Sequelizegg
 pledagggggggggg
 ## Descriptiong
 
