@@ -1,5 +1,5 @@
 # eCommerce-Online-Inventory-Sequelize
-pl
+ple
 ## Description
 
 ### Problem:
