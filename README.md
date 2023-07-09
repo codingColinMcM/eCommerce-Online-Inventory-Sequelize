@@ -1,6 +1,5 @@
-ggg# eCommerce-Online-Inventory-Sequelizegg
-pledaggggggggggg
-## Descriptiong
+# eCommerce-Online-Inventory-Sequelize
+## Description
 
 ### Problem:
 eCommerce sites need a reliable and efficient way to manage their back end. This includes 
