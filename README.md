@@ -1,5 +1,5 @@
 g# eCommerce-Online-Inventory-Sequelizegg
-pledaggggggggg
+pledagggggggggg
 ## Descriptiong
 
 ### Problem:
