@@ -1,6 +1,6 @@
 # eCommerce-Online-Inventory-Sequelize
 
-Golly, I wanna clap some lady's cheeks. I
+Golly, I wanna clap some lady's cheeks. I find
 
 ## Description
 
