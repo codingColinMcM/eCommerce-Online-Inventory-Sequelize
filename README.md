@@ -1,6 +1,6 @@
 # eCommerce-Online-Inventory-Sequelize
 
-Golly, I wanna clap some lady's cheeks. I find it hilarious that grammarly 
+Golly, I wanna clap some lady's cheeks. I find it hilarious that Grammarly is 
 
 ## Description
 
