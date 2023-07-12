@@ -1,4 +1,7 @@
 # eCommerce-Online-Inventory-Sequelize
+
+Golly
+
 ## Description
 
 ### Problem:
