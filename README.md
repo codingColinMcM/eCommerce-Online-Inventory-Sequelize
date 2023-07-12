@@ -1,6 +1,6 @@
 # eCommerce-Online-Inventory-Sequelize
 
-Golly I wanna clap
+Golly, I wanna clap some
 
 ## Description
 
