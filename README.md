@@ -1,6 +1,6 @@
 # eCommerce-Online-Inventory-Sequelize
 
-I need to focus on making flashcards right now because otherwise, I will not be prepared
+I need to focus on making flashcards right now because otherwise, I will not be prepared for 
 
 ## Description
 
