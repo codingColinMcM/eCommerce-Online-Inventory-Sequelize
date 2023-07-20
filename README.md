@@ -1,6 +1,6 @@
 # eCommerce-Online-Inventory-Sequelize
 
-I need to focus
+I need to focus on
 
 ## Description
 
