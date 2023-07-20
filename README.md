@@ -1,7 +1,5 @@
 # eCommerce-Online-Inventory-Sequelize
 
-I need to focus on making flashcards right now because otherwise, I will not be prepared for my technical interviews concerning 
-
 ## Description
 
 ### Problem:
