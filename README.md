@@ -104,6 +104,9 @@ Finally, you can run the application using the command:
 npm start
 ```
 
+To test the API routes, you can use a tool like "Insomnia Core" or "Postman." Open your preferred API testing tool and send requests to the API routes to 
+interact with the data in MongoDB.
+
 ## Screenshot
 
 ![image](https://user-images.githubusercontent.com/112663656/216521080-b8715e4d-ff57-4dc3-bf47-58db92542cfd.png)
