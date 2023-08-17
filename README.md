@@ -1,6 +1,6 @@
 # eCommerce-Online-Inventory-Sequelize
 
-Oh my god I am so lazy right now.
+Oh my god I am so lazy right now. I
 
 ## Description
 
