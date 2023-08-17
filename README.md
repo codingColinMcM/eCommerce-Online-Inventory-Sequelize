@@ -1,6 +1,6 @@
 # eCommerce-Online-Inventory-Sequelize
 
-Oh my god I am
+Oh my god I am so
 
 ## Description
 
