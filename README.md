@@ -1,7 +1,5 @@
 # eCommerce-Online-Inventory-Sequelize
 
-I am still doing the revature training i am a little bit high right now I need to stay strong and go to the gym
-
 ## Description
 
 ### Problem:
