@@ -1,6 +1,6 @@
 # eCommerce-Online-Inventory-Sequelize
 
-I am still doing the revature training
+I am still doing the revature training i
 
 ## Description
 
