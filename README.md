@@ -1,5 +1,3 @@
-khljjj jhjjkh kjjjjj
-
 # eCommerce-Online-Inventory-Sequelize
 
 ## Description
