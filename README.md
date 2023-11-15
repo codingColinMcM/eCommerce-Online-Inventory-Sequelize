@@ -1,4 +1,4 @@
-jjj jjjjjj
+jjjj jjjjjj
 
 # eCommerce-Online-Inventory-Sequelize
 
