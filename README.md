@@ -1,5 +1,3 @@
-dddddd dddddd dddddd
-
 # eCommerce-Online-Inventory-Sequelize
 
 ## Description
