@@ -1,4 +1,4 @@
-dd dddddd
+ddd dddddd
 
 # eCommerce-Online-Inventory-Sequelize
 
