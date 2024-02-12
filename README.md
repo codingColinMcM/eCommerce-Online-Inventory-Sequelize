@@ -1,5 +1,3 @@
-fhghhh hhhmht hhhhhh
-
 # eCommerce-Online-Inventory-Sequelize
 
 ## Description
