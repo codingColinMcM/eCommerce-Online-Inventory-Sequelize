@@ -1,4 +1,4 @@
-hmht hhhhhh
+hhmht hhhhhh
 
 # eCommerce-Online-Inventory-Sequelize
 
